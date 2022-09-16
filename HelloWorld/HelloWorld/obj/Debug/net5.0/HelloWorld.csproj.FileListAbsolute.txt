@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll

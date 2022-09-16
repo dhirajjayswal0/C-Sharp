@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1bYe0bcPxDnTFAYZ43R6+pHwicy3eUJZitOUAhvp3+kfDL7FvEc3U/isbbYM2dO+uah0YTetZUW7Odc2p0/wyA==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
