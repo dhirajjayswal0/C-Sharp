@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4i4mrM7r9f+zQmGhtCJsk/891qrmn2jfYmkYlCZLtZQd9vxyLUJz7pXtXSBiZOID6qUpNsBRsDoK3QiowNS4cg==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/namingConventions_and_codingStandards/namingConventions_and_codingStandards/namingConventions_and_codingStandards.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
