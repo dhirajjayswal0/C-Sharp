@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/bin/Debug/net5.0/ConsolesColors
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/bin/Debug/net5.0/ConsolesColors.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/bin/Debug/net5.0/ConsolesColors.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/bin/Debug/net5.0/ConsolesColors.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/bin/Debug/net5.0/ConsolesColors.dll
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/bin/Debug/net5.0/ConsolesColors.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.dll
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/refint/ConsolesColors.dll
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ConsolesColors.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/obj/Debug/net5.0/ref/ConsolesColors.dll

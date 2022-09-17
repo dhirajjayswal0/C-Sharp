@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywKL8f5ti/8m+2/PXlDS/mGDBnxcVUBLxmxSyE4gL1Aq9U5XaOaRpes4GrsgPruGth+4cKV5mhahN3ApuIqLVw==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/ConsolesColors/ConsolesColors/ConsolesColors.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
