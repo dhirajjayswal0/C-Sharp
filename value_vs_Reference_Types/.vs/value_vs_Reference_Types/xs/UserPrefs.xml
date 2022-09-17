@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DE2FEE1F-2787-45FF-AC40-C51ABC1EFFCF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="value_vs_Reference_Types/Program.cs">
+    <Files>
+      <File FileName="value_vs_Reference_Types/Program.cs" Line="22" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="value_vs_Reference_Types" expanded="True">
+            <Node name="value_vs_Reference_Types" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.value__vs__Reference__Types FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
