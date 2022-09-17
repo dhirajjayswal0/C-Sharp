@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{458167BA-804E-43A9-8D42-7617F5E06282}|Default">
-  <MonoDevelop.Ide.ItemProperties.namingConventions__and__codingStandards FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.namingConventions__and__codingStandards PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="namingConventions_and_codingStandards/Program.cs">
+    <Files>
+      <File FileName="namingConventions_and_codingStandards/Program.cs" Line="3" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="namingConventions_and_codingStandards" expanded="True">
+            <Node name="namingConventions_and_codingStandards" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

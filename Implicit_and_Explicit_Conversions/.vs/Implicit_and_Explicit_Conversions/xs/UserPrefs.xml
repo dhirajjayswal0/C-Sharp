@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AF219A98-9F21-40D7-8EA6-3E2E36275ACC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Implicit_and_Explicit_Conversions/Program.cs">
+    <Files>
+      <File FileName="Implicit_and_Explicit_Conversions/Program.cs" Line="3" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Implicit_and_Explicit_Conversions" expanded="True">
+            <Node name="Implicit_and_Explicit_Conversions" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Implicit__and__Explicit__Conversions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
