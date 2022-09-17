@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "It5Nb2deEaAAf7h6GHQUGenFe/+FXkQKd1ZmWf5nerhGRATPFzS85W+IJf3yTiZuVN63XAXpmokRTM0NwptBDw==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/consoleMethods/consoleMethods/consoleMethods.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
