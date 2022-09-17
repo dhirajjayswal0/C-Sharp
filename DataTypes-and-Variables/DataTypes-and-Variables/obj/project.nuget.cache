@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4drnp+GLcr1+pxn1YYp9ytY6sVrKBASAtaOuiUw86DaPa5KUxq2FQduw8AJ196xQ8NHXRJQ5puYG+6N7Ud4eMA==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/DataTypes-and-Variables.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

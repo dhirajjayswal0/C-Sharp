@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/bin/Debug/net5.0/DataTypes-and-Variables
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/bin/Debug/net5.0/DataTypes-and-Variables.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/bin/Debug/net5.0/DataTypes-and-Variables.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/bin/Debug/net5.0/DataTypes-and-Variables.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/bin/Debug/net5.0/DataTypes-and-Variables.dll
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/bin/Debug/net5.0/DataTypes-and-Variables.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.dll
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/refint/DataTypes-and-Variables.dll
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/DataTypes-and-Variables.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/DataTypes-and-Variables/DataTypes-and-Variables/obj/Debug/net5.0/ref/DataTypes-and-Variables.dll
