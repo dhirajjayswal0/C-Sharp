@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gl3K1VDHQm5JmVGCyYufzhHSRmAQcZeseki9R4dczke6q6yocwtbUG1xh18xiWukIWK9idhtcwb4EneTg+p+6Q==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/StringMethods/StringMethods/StringMethods.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
