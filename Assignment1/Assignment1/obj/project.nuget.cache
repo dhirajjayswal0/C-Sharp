@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNVyIjWECufuj+wLsNvcpEe6L6apL1Xi486P2p/TilImkyuHe/OlBy+uiqLSAhtswgziHC4EMKNP1P1y5djLuQ==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/Assignment1/Assignment1/Assignment1.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
