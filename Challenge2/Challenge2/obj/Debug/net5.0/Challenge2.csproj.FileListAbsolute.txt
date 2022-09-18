@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/bin/Debug/net5.0/Challenge2
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/bin/Debug/net5.0/Challenge2.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/bin/Debug/net5.0/Challenge2.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/bin/Debug/net5.0/Challenge2.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/bin/Debug/net5.0/Challenge2.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/bin/Debug/net5.0/Challenge2.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/refint/Challenge2.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/Challenge2.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge2/Challenge2/obj/Debug/net5.0/ref/Challenge2.dll

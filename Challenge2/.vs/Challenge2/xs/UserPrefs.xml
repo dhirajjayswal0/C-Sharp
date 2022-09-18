@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{3C8AB3F9-A8BA-4FB1-9BA1-1792F970EC11}|Default">
-  <MonoDevelop.Ide.ItemProperties.StringMethods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{1B1ADA32-CBCA-4440-9FD8-5B97BCEE68CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Challenge2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringMethods/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Challenge2/Program.cs">
     <Files>
-      <File FileName="StringMethods/Program.cs" Line="12" Column="13" />
+      <File FileName="Challenge2/Program.cs" Line="3" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StringMethods" expanded="True">
-            <Node name="StringMethods" expanded="True" />
+          <Node name="Challenge2" expanded="True">
+            <Node name="Challenge2" expanded="True" />
           </Node>
         </State>
       </Pad>
