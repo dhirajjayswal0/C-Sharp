@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{153E96EA-CF45-4B61-B318-E8FC2CF8147E}|Default">
+  <MonoDevelop.Ide.ItemProperties.parsing__string__to__integer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="parsing_string_to_integer/Program.cs">
+    <Files>
+      <File FileName="parsing_string_to_integer/Program.cs" Line="3" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="parsing_string_to_integer" expanded="True">
+            <Node name="parsing_string_to_integer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

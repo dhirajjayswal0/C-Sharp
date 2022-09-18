@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/bin/Debug/net5.0/parsing_string_to_integer
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/bin/Debug/net5.0/parsing_string_to_integer.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/bin/Debug/net5.0/parsing_string_to_integer.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/bin/Debug/net5.0/parsing_string_to_integer.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/bin/Debug/net5.0/parsing_string_to_integer.dll
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/bin/Debug/net5.0/parsing_string_to_integer.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.dll
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/refint/parsing_string_to_integer.dll
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/parsing_string_to_integer.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/parsing_string_to_integer/parsing_string_to_integer/obj/Debug/net5.0/ref/parsing_string_to_integer.dll
