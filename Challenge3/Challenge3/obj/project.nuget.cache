@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDEOGsV6wSdafO5MTG90xqPTkMPKQoMhhcvPoRttePepSwlSDg2u6FKEaxnSmnqrn7tSjQ38XQmfDvdx32NkzQ==",
+  "success": true,
+  "projectFilePath": "/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/Challenge3.csproj",
+  "expectedPackageFiles": [
+    "/Users/DHIRAJ/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/bin/Debug/net5.0/Challenge3
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/bin/Debug/net5.0/Challenge3.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/bin/Debug/net5.0/Challenge3.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/bin/Debug/net5.0/Challenge3.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/bin/Debug/net5.0/Challenge3.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/bin/Debug/net5.0/Challenge3.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/refint/Challenge3.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/Challenge3.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Challenge3/Challenge3/obj/Debug/net5.0/ref/Challenge3.dll
