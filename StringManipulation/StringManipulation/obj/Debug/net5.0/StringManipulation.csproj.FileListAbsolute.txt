@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/bin/Debug/net5.0/StringManipulation
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/bin/Debug/net5.0/StringManipulation.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/bin/Debug/net5.0/StringManipulation.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/bin/Debug/net5.0/StringManipulation.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/bin/Debug/net5.0/StringManipulation.dll
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/bin/Debug/net5.0/StringManipulation.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.dll
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/refint/StringManipulation.dll
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/StringManipulation.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/StringManipulation/StringManipulation/obj/Debug/net5.0/ref/StringManipulation.dll
