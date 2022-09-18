@@ -1,0 +1,16 @@
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/bin/Debug/net5.0/Constants
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/bin/Debug/net5.0/Constants.deps.json
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/bin/Debug/net5.0/Constants.runtimeconfig.json
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/bin/Debug/net5.0/Constants.runtimeconfig.dev.json
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/bin/Debug/net5.0/Constants.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/bin/Debug/net5.0/Constants.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.csproj.AssemblyReference.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.AssemblyInfoInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.AssemblyInfo.cs
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.csproj.CoreCompileInputs.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/refint/Constants.dll
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.pdb
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/Constants.genruntimeconfig.cache
+/Users/DHIRAJ/GitHub/C-Sharp/Constants/Constants/obj/Debug/net5.0/ref/Constants.dll
